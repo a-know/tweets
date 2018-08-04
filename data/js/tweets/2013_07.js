@@ -1719,7 +1719,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u304E\u3083\u3070\u3093\uFF20\u6280\u8853\u66F8\u51784 \u304B-20",
+      "name" : "\u304E\u3083\u3070\u3093@\u4E26\u5217\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0",
       "screen_name" : "ledsun",
       "indices" : [ 3, 10 ],
       "id_str" : "5918092",
@@ -1738,7 +1738,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "358062201422094337",
   "text" : "RT @ledsun: \"\u300C\u8DA3\u5473\u3092\u4ED5\u4E8B\u306B\u3057\u3066\u306F\u3044\u3051\u306A\u3044\u300D\u3068\u3044\u3046\u306E\u306F\u8AA4\u89E3\u3067\u3001\u300C\u53D7\u4FE1\u3057\u3066\u697D\u3057\u3080\u4EBA\u304C\u3001\u767A\u4FE1\u8005\u5074\u306B\u56DE\u3063\u3066\u697D\u3057\u3081\u308B\u3068\u306F\u9650\u3089\u306A\u3044\u300D\u3068\u3044\u3046\u306E\u304C\u6B63\u89E3\u3060\u3068\u601D\u3046\u3002\" http:\/\/t.co\/5WVTQCHlIR",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1756,7 +1756,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 358061684117618689,
     "created_at" : "2013-07-19 03:12:12 +0000",
     "user" : {
-      "name" : "\u304E\u3083\u3070\u3093\uFF20\u6280\u8853\u66F8\u51784 \u304B-20",
+      "name" : "\u304E\u3083\u3070\u3093@\u4E26\u5217\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0",
       "screen_name" : "ledsun",
       "protected" : false,
       "id_str" : "5918092",

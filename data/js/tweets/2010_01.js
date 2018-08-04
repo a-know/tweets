@@ -2701,7 +2701,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/www.nibirutech.com\" rel=\"nofollow\"\u003ETwitBird\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5927\u4E08\u592B\uFF08\u306C\uFF09\u3057\u3083\u3093@\u6E15\u4E0A\u306E\u307E\u3044\u307E\u3044\u3060\u3088\u301C",
+      "name" : "\uFF08\u306C\uFF09\u3057\u3083\u3093@\u76F8\u5742\u304F\u3093\u304A\u5927\u4E8B\u306B",
       "screen_name" : "nsyan",
       "indices" : [ 0, 6 ],
       "id_str" : "24885728",
@@ -6216,7 +6216,7 @@ Grailbird.data.tweets_2010_01 =
       "id_str" : "74579101",
       "id" : 74579101
     }, {
-      "name" : "\u305F\u3051\uFF08\u30C9\u30C3\u30C8\uFF09",
+      "name" : "\u305F\u3051\uFF08\u6C57\uFF09",
       "screen_name" : "take_it02",
       "indices" : [ 49, 59 ],
       "id_str" : "14737535",
@@ -10294,7 +10294,13 @@ Grailbird.data.tweets_2010_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.nibirutech.com\" rel=\"nofollow\"\u003ETwitBird\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Web7 Solutions",
+      "screen_name" : "Web7S",
+      "indices" : [ 3, 9 ],
+      "id_str" : "992045551117103104",
+      "id" : 992045551117103104
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -12070,7 +12076,7 @@ Grailbird.data.tweets_2010_01 =
       "id_str" : "19486293",
       "id" : 19486293
     }, {
-      "name" : "\u5B87\u53E4\u6728 \u84BC@5\/6\u7832\u96F7J-37",
+      "name" : "\u5B87\u53E4\u6728 \u84BC@1\u65E5\u76EE\u30E1-31a",
       "screen_name" : "a_park",
       "indices" : [ 31, 38 ],
       "id_str" : "8593222",
@@ -13694,7 +13700,7 @@ Grailbird.data.tweets_2010_01 =
       "id_str" : "2380931",
       "id" : 2380931
     }, {
-      "name" : "heniha",
+      "name" : "heniha.ai",
       "screen_name" : "heniha",
       "indices" : [ 24, 31 ],
       "id_str" : "5624872",

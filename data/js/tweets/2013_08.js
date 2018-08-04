@@ -202,7 +202,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "vvakame",
       "protected" : false,
       "id_str" : "93872255",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/947481944433967106\/a8aPDqX2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1017825018779090945\/UcZKl9M5_normal.jpg",
       "id" : 93872255,
       "verified" : false
     }
@@ -361,7 +361,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "fuwafuwa_Fuaru",
       "protected" : false,
       "id_str" : "237330800",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/989347814944591872\/ezxtktZS_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008846618164989952\/bzFcGeT__normal.jpg",
       "id" : 237330800,
       "verified" : false
     }
@@ -454,7 +454,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5C0F\u6C60 \u9678 \"\u75C5\u6C17\u306E\u30A8\u30D3\"",
+      "name" : "\u5C0F\u6C60 \u9678@\u30CF\u30A4\u30C1\u57A2",
       "screen_name" : "ssig33",
       "indices" : [ 3, 10 ],
       "id_str" : "5159931",
@@ -481,7 +481,7 @@ Grailbird.data.tweets_2013_08 =
     "id" : 372927284946022400,
     "created_at" : "2013-08-29 03:42:48 +0000",
     "user" : {
-      "name" : "\u5C0F\u6C60 \u9678 \"\u75C5\u6C17\u306E\u30A8\u30D3\"",
+      "name" : "\u5C0F\u6C60 \u9678@\u30CF\u30A4\u30C1\u57A2",
       "screen_name" : "ssig33",
       "protected" : false,
       "id_str" : "5159931",
@@ -536,7 +536,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "makula",
       "protected" : false,
       "id_str" : "14338170",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/980306058357780480\/PgP-ZgYv_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013035219899707399\/5x5lauYq_normal.jpg",
       "id" : 14338170,
       "verified" : false
     }
@@ -681,7 +681,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "yusuke",
       "protected" : false,
       "id_str" : "4933401",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/883667586486906880\/kGGyl6s3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1001005791502000128\/oeOyH3kH_normal.jpg",
       "id" : 4933401,
       "verified" : false
     }
@@ -1604,7 +1604,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "midnight_nhk",
       "protected" : false,
       "id_str" : "253997661",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/915108874989953024\/WfU4PtH2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1011828306566475777\/Eydmv4PO_normal.jpg",
       "id" : 253997661,
       "verified" : false
     }
@@ -3878,7 +3878,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chrisss\uD83D\uDC4C",
+      "name" : "chrisgotwork\uD83D\uDC4C",
       "screen_name" : "it",
       "indices" : [ 107, 110 ],
       "id_str" : "243850444",
@@ -4934,7 +4934,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u98F4308@2\u3314\u30DE\u30F3",
+      "name" : "\u98F4308@\u3048\u308A\u308A\u30932\u3314\u30DE\u30F3",
       "screen_name" : "candylight308",
       "indices" : [ 3, 17 ],
       "id_str" : "176661595",
@@ -4961,7 +4961,7 @@ Grailbird.data.tweets_2013_08 =
     "id" : 365296079337558016,
     "created_at" : "2013-08-08 02:19:06 +0000",
     "user" : {
-      "name" : "\u98F4308@2\u3314\u30DE\u30F3",
+      "name" : "\u98F4308@\u3048\u308A\u308A\u30932\u3314\u30DE\u30F3",
       "screen_name" : "candylight308",
       "protected" : false,
       "id_str" : "176661595",

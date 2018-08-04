@@ -65,7 +65,7 @@ Grailbird.data.tweets_2010_05 =
       "id_str" : "820188480",
       "id" : 820188480
     }, {
-      "name" : "\uFF08\u304F\uFF09\u308A\u305F\u3057\u3052\u305F\u304B@\u8D85\u4F1A\u8B702018",
+      "name" : "\uFF08\u304F\uFF09\u308A\u305F\u3057\u3052\u305F\u304B\u6539",
       "screen_name" : "sigekun",
       "indices" : [ 46, 54 ],
       "id_str" : "72510674",
@@ -88,7 +88,7 @@ Grailbird.data.tweets_2010_05 =
         "id_str" : "820188480",
         "id" : 820188480
       }, {
-        "name" : "\uFF08\u304F\uFF09\u308A\u305F\u3057\u3052\u305F\u304B@\u8D85\u4F1A\u8B702018",
+        "name" : "\uFF08\u304F\uFF09\u308A\u305F\u3057\u3052\u305F\u304B\u6539",
         "screen_name" : "sigekun",
         "indices" : [ 34, 42 ],
         "id_str" : "72510674",
@@ -1100,7 +1100,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDC24\u3068\u308D\u308D\u854E\u9EA6\uD83D\uDC24",
+      "name" : "\u93A7\u585A\u307F\u305E\u308C\u306E\u773C",
       "screen_name" : "tororosoba",
       "indices" : [ 3, 14 ],
       "id_str" : "4846401",
@@ -1127,11 +1127,11 @@ Grailbird.data.tweets_2010_05 =
     "id" : 14266917859,
     "created_at" : "2010-05-19 02:20:41 +0000",
     "user" : {
-      "name" : "\uD83D\uDC24\u3068\u308D\u308D\u854E\u9EA6\uD83D\uDC24",
+      "name" : "\u93A7\u585A\u307F\u305E\u308C\u306E\u773C",
       "screen_name" : "tororosoba",
       "protected" : false,
       "id_str" : "4846401",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/848287430406840320\/gFsbeh_Z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/991667476004978688\/xzp1rTCj_normal.jpg",
       "id" : 4846401,
       "verified" : false
     }
@@ -2759,7 +2759,7 @@ Grailbird.data.tweets_2010_05 =
       "id_str" : "5861622",
       "id" : 5861622
     }, {
-      "name" : "weboo",
+      "name" : "weboo \u2122",
       "screen_name" : "weboo",
       "indices" : [ 30, 36 ],
       "id_str" : "3701281",
@@ -5452,7 +5452,7 @@ Grailbird.data.tweets_2010_05 =
     "source" : "\u003Ca href=\"http:\/\/cheebow.info\/chemt\/archives\/2007\/04\/twitterwindowst.html\" rel=\"nofollow\"\u003ETwit for Windows\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u6B8B\u5FF5\u306AC++\u4F7F\u3044\u3001\u9280\u5929\u3059\u3070\u308B",
+        "name" : "\u666E\u901A\u306EC++\u4F7F\u3044\u3001\u9280\u5929\u3059\u3070\u308B",
         "screen_name" : "SubaruG",
         "indices" : [ 120, 128 ],
         "id_str" : "93855460",

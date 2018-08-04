@@ -58,7 +58,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/www.nibirutech.com\" rel=\"nofollow\"\u003ETwitBird\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3075\u3082\uFF20\u706B\u6D88\u3057",
+      "name" : "\u3075\u3082",
       "screen_name" : "fumokmm",
       "indices" : [ 3, 11 ],
       "id_str" : "5821822",

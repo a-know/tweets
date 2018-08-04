@@ -2668,7 +2668,7 @@ Grailbird.data.tweets_2010_09 =
   "id_str" : "24819880171",
   "text" : "RT @iteman: \"\u6614\u3001\u82F1\u8A9E\u306E\u6388\u696D\u3067\u5148\u751F\u306B\u300CNO SMOKING\u306E\u610F\u5473\u306F\u300D \u3068\u554F\u308F\u308C\u3066\u3001 \u300C\u306F\u3044\uFF01(\uFF40\uFF65\u03C9\uFF65\u00B4)\u30CE\u3000\u300E\u6A2A\u7DB1\u4E0D\u5728\u300F\u3067\u3059\uFF01(\uFF40\uFF65\u03C9\uFF65\u00B4)\u300D \u3068\u7B54\u3048\u305F\u53CB\u4EBA\u3092\u601D\u3044\u51FA\u3057\u305F\u3002\" http:\/\/tumblr.com\/xfdiv8v0y",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4246,7 +4246,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3048\u3046\u3046\uFF0AKID the Euforia",
+      "name" : "\u3048\u3046\u3046",
       "screen_name" : "blueberrystream",
       "indices" : [ 0, 16 ],
       "id_str" : "17570304",
@@ -4450,7 +4450,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5927\u5CA1\u7531\u4F73@\u3075\u308D\u3093\u3068\u3048\u3093\u3069\u3048\u3093\u3058\u306B\u3083\u30FC",
+      "name" : "Yuka O'oka (ja)",
       "screen_name" : "oukayuka",
       "indices" : [ 3, 12 ],
       "id_str" : "17616038",
@@ -4477,7 +4477,7 @@ Grailbird.data.tweets_2010_09 =
     "id" : 23049758308,
     "created_at" : "2010-09-05 10:45:46 +0000",
     "user" : {
-      "name" : "\u5927\u5CA1\u7531\u4F73@\u3075\u308D\u3093\u3068\u3048\u3093\u3069\u3048\u3093\u3058\u306B\u3083\u30FC",
+      "name" : "Yuka O'oka (ja)",
       "screen_name" : "oukayuka",
       "protected" : false,
       "id_str" : "17616038",

@@ -742,7 +742,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(\u3063\u2019\u30EE\u2019c) \uFF1C \u3057\u3063\u307D",
+      "name" : "(\u3063\u2019\u30EE\u2019c) \uFF1C \u2605\u3057\u3063\u307D",
       "screen_name" : "ryosms",
       "indices" : [ 0, 7 ],
       "id_str" : "124127525",
@@ -1405,7 +1405,7 @@ Grailbird.data.tweets_2013_05 =
   "id_str" : "337899927042666496",
   "text" : "RT @ohtsuki2843: \u660E\u65E5\u958B\u50AC\u3002\u307E\u3060\u6B8B\u5E2D\u3042\u308B\u306E\u3067\u3001JavaScript\u304C\u597D\u304D\u306A\u65B9\u3001\u30D5\u30ED\u30F3\u30C8\u306A\u53CB\u9054\u3092\u5897\u3084\u3057\u305F\u3044\u65B9\uFF08\u3068\u8A00\u3063\u3066\u3082\u3001\u5C5E\u6027\u3044\u308D\u3044\u308D\u3060\u3051\u3069\uFF09\u306F\u662F\u975E\uFF01\u2192 \u7B2C\u4E94\u56DE okayama-js\u52C9\u5F37\u4F1A | okayama-js http:\/\/t.co\/oiDBF1PdFQ",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1496,7 +1496,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Yoshifumi Yamaguchi",
+      "name" : "Yoshi Yamaguchi \uD83C\uDDEF\uD83C\uDDF5",
       "screen_name" : "ymotongpoo",
       "indices" : [ 3, 14 ],
       "id_str" : "4135891",
@@ -1523,7 +1523,7 @@ Grailbird.data.tweets_2013_05 =
     "id" : 337780338896031744,
     "created_at" : "2013-05-24 04:01:23 +0000",
     "user" : {
-      "name" : "Yoshifumi Yamaguchi",
+      "name" : "Yoshi Yamaguchi \uD83C\uDDEF\uD83C\uDDF5",
       "screen_name" : "ymotongpoo",
       "protected" : false,
       "id_str" : "4135891",
@@ -2220,7 +2220,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Yoshifumi Yamaguchi",
+      "name" : "Yoshi Yamaguchi \uD83C\uDDEF\uD83C\uDDF5",
       "screen_name" : "ymotongpoo",
       "indices" : [ 3, 14 ],
       "id_str" : "4135891",
@@ -2259,7 +2259,7 @@ Grailbird.data.tweets_2013_05 =
     "id" : 334811627851485185,
     "created_at" : "2013-05-15 23:24:47 +0000",
     "user" : {
-      "name" : "Yoshifumi Yamaguchi",
+      "name" : "Yoshi Yamaguchi \uD83C\uDDEF\uD83C\uDDF5",
       "screen_name" : "ymotongpoo",
       "protected" : false,
       "id_str" : "4135891",
@@ -2346,7 +2346,7 @@ Grailbird.data.tweets_2013_05 =
   "id_str" : "336330816542093312",
   "text" : "RT @r_hayakasa: \"\u72AC\u5C71\uFF1A\u7537\u6027\u3067\u305F\u307E\u306B\u3001\u300C\u3042\u306E\u5B50\u306F\u81EA\u5206\u304C\u53EF\u611B\u3044\u3053\u3068\u306B\u6C17\u3065\u3044\u3066\u3044\u306A\u3044\u300D\u3068\u304B\u8A00\u3046\u4EBA\u3044\u307E\u3059\u3088\u306D\u3002\u305D\u3046\u3044\u3046\u4EBA\u3092\u898B\u308B\u3068\u3001\u307B\u3093\u3068\u4ED5\u4E8B\u304C\u3067\u304D\u306A\u3044\u3093\u3058\u3083\u306A\u3044\u304B\u3068\u601D\u3046\u3002\u305D\u3093\u306A\u308F\u3051\u306A\u3044\u3058\u3083\u3093\u3002...\" http:\/\/t.co\/W2FfuGNDcM",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3523,7 +3523,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "mzp",
       "protected" : false,
       "id_str" : "3991031",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/974866453710041088\/0paYh_X1_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1012615362678906882\/X8DsDDfD_normal.jpg",
       "id" : 3991031,
       "verified" : false
     }

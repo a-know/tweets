@@ -962,7 +962,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/www.nibirutech.com\" rel=\"nofollow\"\u003ETwitBird\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3075\u3082\uFF20\u706B\u6D88\u3057",
+      "name" : "\u3075\u3082",
       "screen_name" : "fumokmm",
       "indices" : [ 3, 11 ],
       "id_str" : "5821822",
@@ -2846,7 +2846,7 @@ Grailbird.data.tweets_2010_03 =
       "id_str" : "85729152",
       "id" : 85729152
     }, {
-      "name" : "\u30D1\u30E9\u30C0\u30A4\u30B9\u3055\u3093\uD83D\uDC33\uD83C\uDFDD",
+      "name" : "\u30D1\u30E9\u30C0\u30A4\u30B9\u3055\u3093\uD83C\uDFD6\uD83C\uDF7A\uD83C\uDF51",
       "screen_name" : "paradisemaker",
       "indices" : [ 17, 31 ],
       "id_str" : "5454252",
@@ -3182,7 +3182,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/www.nibirutech.com\" rel=\"nofollow\"\u003ETwitBird\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3075\u3082\uFF20\u706B\u6D88\u3057",
+      "name" : "\u3075\u3082",
       "screen_name" : "fumokmm",
       "indices" : [ 3, 11 ],
       "id_str" : "5821822",
@@ -3977,13 +3977,13 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/www.nibirutech.com\" rel=\"nofollow\"\u003ETwitBird\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3075\u3082\uFF20\u706B\u6D88\u3057",
+      "name" : "\u3075\u3082",
       "screen_name" : "fumokmm",
       "indices" : [ 3, 11 ],
       "id_str" : "5821822",
       "id" : 5821822
     }, {
-      "name" : "\u305F\u3051\uFF08\u30C9\u30C3\u30C8\uFF09",
+      "name" : "\u305F\u3051\uFF08\u6C57\uFF09",
       "screen_name" : "take_it02",
       "indices" : [ 15, 25 ],
       "id_str" : "14737535",

@@ -378,7 +378,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3088\u3057\u305F\u306B@\u65B0\u7406\u7CFB\u24604\/26\u767A\u58F2\uFF01",
+      "name" : "\u3088\u3057\u305F\u306B@\u3044\u3064\u30E2\u30C6\u6700\u7D42\u2463\u5DFB\u767A\u58F2\uFF01",
       "screen_name" : "dancom",
       "indices" : [ 3, 10 ],
       "id_str" : "14904867",
@@ -405,7 +405,7 @@ Grailbird.data.tweets_2012_02 =
     "id" : 174512286793338880,
     "created_at" : "2012-02-28 15:12:26 +0000",
     "user" : {
-      "name" : "\u3088\u3057\u305F\u306B@\u65B0\u7406\u7CFB\u24604\/26\u767A\u58F2\uFF01",
+      "name" : "\u3088\u3057\u305F\u306B@\u3044\u3064\u30E2\u30C6\u6700\u7D42\u2463\u5DFB\u767A\u58F2\uFF01",
       "screen_name" : "dancom",
       "protected" : false,
       "id_str" : "14904867",
@@ -545,7 +545,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3044\u308D\u3075.toStrong()",
+      "name" : "@irof",
       "screen_name" : "irof",
       "indices" : [ 0, 5 ],
       "id_str" : "14969725",
@@ -581,7 +581,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3044\u308D\u3075.toStrong()",
+      "name" : "@irof",
       "screen_name" : "irof",
       "indices" : [ 0, 5 ],
       "id_str" : "14969725",
@@ -843,7 +843,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2287\uFF85\uFF86\uFF9A\uFF86\u03C9",
+      "name" : "\u3053\u305F\u306B\u3093",
       "screen_name" : "kotanin",
       "indices" : [ 0, 8 ],
       "id_str" : "42374614",
@@ -876,7 +876,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2287\uFF85\uFF86\uFF9A\uFF86\u03C9",
+      "name" : "\u3053\u305F\u306B\u3093",
       "screen_name" : "kotanin",
       "indices" : [ 0, 8 ],
       "id_str" : "42374614",
@@ -3003,7 +3003,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "yusuke",
       "protected" : false,
       "id_str" : "4933401",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/883667586486906880\/kGGyl6s3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1001005791502000128\/oeOyH3kH_normal.jpg",
       "id" : 4933401,
       "verified" : false
     }
@@ -3655,7 +3655,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nao\u00B2",
+      "name" : "na\u00F6 \u00B2",
       "screen_name" : "vega_nao",
       "indices" : [ 3, 12 ],
       "id_str" : "111817818",
@@ -3682,7 +3682,7 @@ Grailbird.data.tweets_2012_02 =
     "id" : 170101324610940928,
     "created_at" : "2012-02-16 11:04:50 +0000",
     "user" : {
-      "name" : "nao\u00B2",
+      "name" : "na\u00F6 \u00B2",
       "screen_name" : "vega_nao",
       "protected" : false,
       "id_str" : "111817818",
@@ -3970,7 +3970,7 @@ Grailbird.data.tweets_2012_02 =
   "id_str" : "170348053969113088",
   "text" : "RT @f_sugar: \u753B\u50CF\u304B\u3089Bootstrap\u306E\u30AB\u30E9\u30FC\u30B9\u30AD\u30FC\u30E0\u3092\u751F\u6210\u3057\u3066\u304F\u308C\u308B\u3002\u4FBF\u5229\u305D\u3046\u3060\u3057\u8272\u3093\u306A\u753B\u50CF\u3092\u30A2\u30C3\u30D7\u3057\u3066\u697D\u3057\u3081\u305D\u3046\u3002 \/ Lavish - Generate your own Bootstrap color scheme - http:\/\/t.co\/z4o ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.shareaholic.com\" rel=\"nofollow\"\u003Eshareaholic\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.shareaholic.com\" rel=\"nofollow\"\u003EShareaholic.com\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5292,7 +5292,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "47118073",
       "id" : 47118073
     }, {
-      "name" : "msz\u306B\u306A\u3063\u305Fmzsm",
+      "name" : "mzsm",
       "screen_name" : "mzsm_j",
       "indices" : [ 10, 17 ],
       "id_str" : "74623201",
@@ -7539,7 +7539,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "gex_fz_HYPER",
       "protected" : false,
       "id_str" : "110612292",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/990048061962387458\/Fr7PI3vG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1025627209711546368\/ynmAN_6X_normal.jpg",
       "id" : 110612292,
       "verified" : false
     }

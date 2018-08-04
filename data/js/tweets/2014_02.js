@@ -1191,57 +1191,6 @@ Grailbird.data.tweets_2014_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u306D\u3053\u5C71",
-      "screen_name" : "gyonikusausage",
-      "indices" : [ 3, 18 ],
-      "id_str" : "152879016",
-      "id" : 152879016
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "436443259196276736",
-  "text" : "RT @gyonikusausage: \u4ECA\u65E5\u4E0A\u53F8\u306B\u4F7F\u3063\u305F\u300C\u6C34\u69FD\u306E\u30DD\u30F3\u30D7\u3092\u8CB7\u3063\u3066\u5E30\u3089\u306A\u3044\u3068\u91D1\u9B5A\u304C\u5168\u90E8\u6B7B\u306C\u300D\u306F\u3053\u30535\u5E74\u306E\u30D9\u30B9\u30C8\u98F2\u307F\u306E\u65AD\u308A\u30EA\u30FC\u30BA\u30F3\u306B\u306A\u308B\u306A",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "436321819507687424",
-    "text" : "\u4ECA\u65E5\u4E0A\u53F8\u306B\u4F7F\u3063\u305F\u300C\u6C34\u69FD\u306E\u30DD\u30F3\u30D7\u3092\u8CB7\u3063\u3066\u5E30\u3089\u306A\u3044\u3068\u91D1\u9B5A\u304C\u5168\u90E8\u6B7B\u306C\u300D\u306F\u3053\u30535\u5E74\u306E\u30D9\u30B9\u30C8\u98F2\u307F\u306E\u65AD\u308A\u30EA\u30FC\u30BA\u30F3\u306B\u306A\u308B\u306A",
-    "id" : 436321819507687424,
-    "created_at" : "2014-02-20 02:10:02 +0000",
-    "user" : {
-      "name" : "\u306D\u3053\u5C71",
-      "screen_name" : "gyonikusausage",
-      "protected" : false,
-      "id_str" : "152879016",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/686723956884111360\/p7uKQtRK_normal.jpg",
-      "id" : 152879016,
-      "verified" : false
-    }
-  },
-  "id" : 436443259196276736,
-  "created_at" : "2014-02-20 10:12:36 +0000",
-  "user" : {
-    "name" : "a-know",
-    "screen_name" : "a_know",
-    "protected" : false,
-    "id_str" : "54904048",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930620179083616256\/lITBdz0X_normal.jpg",
-    "id" : 54904048,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -3449,7 +3398,7 @@ Grailbird.data.tweets_2014_02 =
       "screen_name" : "knsmr",
       "protected" : false,
       "id_str" : "3857121",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/678915440404389888\/SlOfpKYe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1017814973257355264\/llIzePuK_normal.jpg",
       "id" : 3857121,
       "verified" : false
     }
@@ -6532,7 +6481,7 @@ Grailbird.data.tweets_2014_02 =
       "screen_name" : "vvakame",
       "protected" : false,
       "id_str" : "93872255",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/947481944433967106\/a8aPDqX2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1017825018779090945\/UcZKl9M5_normal.jpg",
       "id" : 93872255,
       "verified" : false
     }
@@ -6558,7 +6507,7 @@ Grailbird.data.tweets_2014_02 =
       "id_str" : "4656275124",
       "id" : 4656275124
     }, {
-      "name" : "\u3053\u304A\u308D\u304E",
+      "name" : "\u3053\u304A\u308D\u304E\uD83D\uDC1C",
       "screen_name" : "Kohrogi34",
       "indices" : [ 57, 67 ],
       "id_str" : "159343996",
@@ -6580,7 +6529,7 @@ Grailbird.data.tweets_2014_02 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u3053\u304A\u308D\u304E",
+        "name" : "\u3053\u304A\u308D\u304E\uD83D\uDC1C",
         "screen_name" : "Kohrogi34",
         "indices" : [ 36, 46 ],
         "id_str" : "159343996",

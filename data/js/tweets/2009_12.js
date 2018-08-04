@@ -4257,7 +4257,7 @@ Grailbird.data.tweets_2009_12 =
       "id_str" : "81325282",
       "id" : 81325282
     }, {
-      "name" : "\u4EBA\u751F\u5EC3\u696D(\uFF8A\uFF9E\uFF70\uFF81\uFF6C\uFF99\u4F4E\u8EAB\u9577)",
+      "name" : "\u4EBA\u751F\u5EC3\u696D(\uFF74\uFF8B\uFF9E\uFF8C\uFF97\uFF72\u6295\u3052\u8077\u4EBA)",
       "screen_name" : "jinseihaigyou",
       "indices" : [ 15, 29 ],
       "id_str" : "54111123",
@@ -6682,7 +6682,7 @@ Grailbird.data.tweets_2009_12 =
       "id_str" : "181429279",
       "id" : 181429279
     }, {
-      "name" : "takojima",
+      "name" : "\u534A\u5206\u3001\u304A\u30BF\u30B3\u3002",
       "screen_name" : "takojima",
       "indices" : [ 94, 103 ],
       "id_str" : "61929659",
@@ -8336,7 +8336,7 @@ Grailbird.data.tweets_2009_12 =
       "id_str" : "56250092",
       "id" : 56250092
     }, {
-      "name" : "Kumi@\uD83C\uDDF9\uD83C\uDDEDTH \u653E\u6D6A\u751F\u6D3B5\u5E74\u3081",
+      "name" : "Kumi@\uD83C\uDDFA\uD83C\uDDF8US \u653E\u6D6A\u751F\u6D3B5\u5E74\u3081",
       "screen_name" : "kum_i",
       "indices" : [ 91, 97 ],
       "id_str" : "20140800",

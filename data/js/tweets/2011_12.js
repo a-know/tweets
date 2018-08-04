@@ -1871,7 +1871,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3048\u3075\u3057\u3093",
+      "name" : "\u3048\u3075\u3057\u3093 \/ BASE",
       "screen_name" : "fshin2000",
       "indices" : [ 12, 22 ],
       "id_str" : "3600081",
@@ -2016,7 +2016,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "yagitch",
+      "name" : "yagitch\uFF08\u3084\u304E\u3063\u3061\uFF09",
       "screen_name" : "yagitch",
       "indices" : [ 3, 11 ],
       "id_str" : "4592551",
@@ -2043,7 +2043,7 @@ Grailbird.data.tweets_2011_12 =
     "id" : 141711563127132160,
     "created_at" : "2011-11-30 02:54:04 +0000",
     "user" : {
-      "name" : "yagitch",
+      "name" : "yagitch\uFF08\u3084\u304E\u3063\u3061\uFF09",
       "screen_name" : "yagitch",
       "protected" : false,
       "id_str" : "4592551",
@@ -2446,7 +2446,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3048\u3075\u3057\u3093",
+      "name" : "\u3048\u3075\u3057\u3093 \/ BASE",
       "screen_name" : "fshin2000",
       "indices" : [ 12, 22 ],
       "id_str" : "3600081",
@@ -4796,7 +4796,7 @@ Grailbird.data.tweets_2011_12 =
   "id_str" : "147933919776473088",
   "text" : "RT @sasakitoshinao: \u5DE5\u85E4\u516C\u5EB7\u6295\u624B\u306F\u30DB\u30FC\u30AF\u30B9\u3092\u96E2\u308C\u305F\u969B\u300115\u4E07\u4EBA\u306E\u30D5\u30A1\u30F3\u304B\u3089\u9001\u3089\u308C\u3066\u304D\u305F\u5606\u9858\u66F8\u306B\u3069\u3046\u5BFE\u5FDC\u3057\u305F\u304B\u3002\u306A\u3093\u3066\u7D20\u6674\u3089\u3057\u3044\u8A71\u3002\u3061\u3087\u3063\u3068\u6D99\u304C\u51FA\u305F\u3002\uFF0F\u3075\u307F\u901A\uFF1A\u53E4\u8CC0\u53F2\u5065\u306Eblog http:\/\/t.co\/a3iPd8NH",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5234,7 +5234,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3048\u3075\u3057\u3093",
+      "name" : "\u3048\u3075\u3057\u3093 \/ BASE",
       "screen_name" : "fshin2000",
       "indices" : [ 41, 51 ],
       "id_str" : "3600081",
@@ -6997,7 +6997,7 @@ Grailbird.data.tweets_2011_12 =
   "id_str" : "143532855711105024",
   "text" : "RT @maepon: \"\u9AD8\u6821\u751F\u304C\u558B\u308A\u6563\u3089\u3057\u3066\u308B\u30DE\u30AF\u30C9\u3067\uFF11\uFF12\uFF10\u5186\u306E\u30B3\u30FC\u30D2\u30FC\u3092\u98F2\u3080\u3088\u308A\u3082\u3001\uFF12\uFF12\uFF10\u5186\u6255\u3063\u3066\u30E2\u30B9\u306E\u30B3\u30FC\u30D2\u30FC\u3092\u98F2\u3080\u65B9\u304C\u3084\u3063\u3071\u3044\u3044\u306A\u3041\u3002\u3082\u3046\uFF12\uFF10\uFF10\u5186\u30D7\u30E9\u30B9\u3059\u308C\u3070\u5468\u308A\u306E\u4EBA\u306E\u8AAD\u3080\u672C\u3084\u4F1A\u8A71\u304C\u3059\u3054\u304F\u8208\u5473\u6DF1\u304F\u306A\u308B\u3057\u3001\uFF17\uFF10\uFF10\u5186\u306E\u30B3\u30FC\u30D2\u30FC\u306B\u3059...\"... http:\/\/t.co ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -7380,7 +7380,7 @@ Grailbird.data.tweets_2011_12 =
       "id_str" : "14308381",
       "id" : 14308381
     }, {
-      "name" : "CERO-METAL\uD83E\uDD8A\uD83E\uDD18",
+      "name" : "Shin Tanimoto\uD83E\uDD8A\uD83E\uDD18",
       "screen_name" : "cero_t",
       "indices" : [ 105, 112 ],
       "id_str" : "14663651",
@@ -7397,7 +7397,7 @@ Grailbird.data.tweets_2011_12 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "CERO-METAL\uD83E\uDD8A\uD83E\uDD18",
+        "name" : "Shin Tanimoto\uD83E\uDD8A\uD83E\uDD18",
         "screen_name" : "cero_t",
         "indices" : [ 90, 97 ],
         "id_str" : "14663651",

@@ -579,7 +579,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "isaykn",
       "protected" : false,
       "id_str" : "483943170",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/977421220835545088\/zWj40Zhm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1003287411940397057\/8pZJ1ahb_normal.jpg",
       "id" : 483943170,
       "verified" : false
     }
@@ -1338,7 +1338,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryo Suzuki(\u4F1A\u793E\u3067\u306F\u3059\u30FC\u3055\u3093)",
+      "name" : "Ryo Suzuki",
       "screen_name" : "hapicky",
       "indices" : [ 3, 11 ],
       "id_str" : "81880125",
@@ -1387,7 +1387,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 416457705151156224,
     "created_at" : "2013-12-27 06:37:08 +0000",
     "user" : {
-      "name" : "Ryo Suzuki(\u4F1A\u793E\u3067\u306F\u3059\u30FC\u3055\u3093)",
+      "name" : "Ryo Suzuki",
       "screen_name" : "hapicky",
       "protected" : false,
       "id_str" : "81880125",
@@ -1793,7 +1793,7 @@ Grailbird.data.tweets_2013_12 =
   "id_str" : "416362452649918464",
   "text" : "RT @Goldengreg: \u30B9\u30DE\u30DB\u6301\u3061\u3067\u4E00\u4EBA\u66AE\u3089\u3057\u3067\u3082\u30DB\u30FC\u30E0\u30B7\u30CD\u30DE\u306F\u51FA\u6765\u308B!! via  @edykstein http:\/\/t.co\/e1O7ZBpWrc",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Eric DYKSTEIN",
@@ -2419,7 +2419,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "girigiribauer",
       "protected" : false,
       "id_str" : "87064402",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/925377551161102336\/4ns9Gzeh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1024981560561291265\/GcT7uLIH_normal.jpg",
       "id" : 87064402,
       "verified" : false
     }
@@ -2554,7 +2554,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "mikipedia95",
       "protected" : false,
       "id_str" : "407643058",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/982233391343923201\/Ft8IBWW4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1021557920658415616\/fwfXAcO0_normal.jpg",
       "id" : 407643058,
       "verified" : false
     }
@@ -2628,7 +2628,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3061\u3044\u3068\u3044\u3064@NT2018\/3\/25",
+      "name" : "\u3061\u3044\u3068\u3044\u3064",
       "screen_name" : "titoi2",
       "indices" : [ 3, 10 ],
       "id_str" : "138774066",
@@ -2655,7 +2655,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 415499624342749185,
     "created_at" : "2013-12-24 15:10:04 +0000",
     "user" : {
-      "name" : "\u3061\u3044\u3068\u3044\u3064@NT2018\/3\/25",
+      "name" : "\u3061\u3044\u3068\u3044\u3064",
       "screen_name" : "titoi2",
       "protected" : false,
       "id_str" : "138774066",
@@ -3364,7 +3364,7 @@ Grailbird.data.tweets_2013_12 =
       "id_str" : "29424124",
       "id" : 29424124
     }, {
-      "name" : "\u677E\u7530\u5948\u7DD2\u5B50 11\u96C65\/11\u9803\u767A\u58F2\u2606",
+      "name" : "\u677E\u7530\u5948\u7DD2\u5B50 11\u96C6 \u767A\u58F2\u4E2D\u3045\u3045\u3045\uFF01\uFF01",
       "screen_name" : "mazdanaoko",
       "indices" : [ 18, 29 ],
       "id_str" : "123826900",
@@ -3381,7 +3381,7 @@ Grailbird.data.tweets_2013_12 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u677E\u7530\u5948\u7DD2\u5B50 11\u96C65\/11\u9803\u767A\u58F2\u2606",
+        "name" : "\u677E\u7530\u5948\u7DD2\u5B50 11\u96C6 \u767A\u58F2\u4E2D\u3045\u3045\u3045\uFF01\uFF01",
         "screen_name" : "mazdanaoko",
         "indices" : [ 3, 14 ],
         "id_str" : "123826900",
@@ -5151,7 +5151,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "pisiinu",
       "protected" : false,
       "id_str" : "7453392",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/912728620669345792\/Hi_yk2Xy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1025464431587684353\/J1x4eYnQ_normal.jpg",
       "id" : 7453392,
       "verified" : false
     }
@@ -5355,7 +5355,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "mako",
+      "name" : "mako\uD83D\uDD25",
       "screen_name" : "mako_wis",
       "indices" : [ 0, 9 ],
       "id_str" : "107558942",
@@ -5388,7 +5388,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "mako",
+      "name" : "mako\uD83D\uDD25",
       "screen_name" : "mako_wis",
       "indices" : [ 0, 9 ],
       "id_str" : "107558942",
@@ -6064,7 +6064,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 412318027644796928,
     "created_at" : "2013-12-15 20:27:32 +0000",
     "user" : {
-      "name" : "godgarden",
+      "name" : "godgarden \/ Lancers, Inc.",
       "screen_name" : "g0dgarden",
       "protected" : false,
       "id_str" : "126870388",
@@ -8883,7 +8883,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryo Suzuki(\u4F1A\u793E\u3067\u306F\u3059\u30FC\u3055\u3093)",
+      "name" : "Ryo Suzuki",
       "screen_name" : "hapicky",
       "indices" : [ 3, 11 ],
       "id_str" : "81880125",
@@ -8926,7 +8926,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 407724326905839616,
     "created_at" : "2013-12-03 04:13:49 +0000",
     "user" : {
-      "name" : "Ryo Suzuki(\u4F1A\u793E\u3067\u306F\u3059\u30FC\u3055\u3093)",
+      "name" : "Ryo Suzuki",
       "screen_name" : "hapicky",
       "protected" : false,
       "id_str" : "81880125",
@@ -9674,7 +9674,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "vvakame",
       "protected" : false,
       "id_str" : "93872255",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/947481944433967106\/a8aPDqX2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1017825018779090945\/UcZKl9M5_normal.jpg",
       "id" : 93872255,
       "verified" : false
     }
@@ -10582,7 +10582,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 407308493591302145,
     "created_at" : "2013-12-02 00:41:26 +0000",
     "user" : {
-      "name" : "godgarden",
+      "name" : "godgarden \/ Lancers, Inc.",
       "screen_name" : "g0dgarden",
       "protected" : false,
       "id_str" : "126870388",
@@ -10945,7 +10945,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "mako",
+      "name" : "mako\uD83D\uDD25",
       "screen_name" : "mako_wis",
       "indices" : [ 0, 9 ],
       "id_str" : "107558942",
@@ -10978,7 +10978,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "mako",
+      "name" : "mako\uD83D\uDD25",
       "screen_name" : "mako_wis",
       "indices" : [ 45, 54 ],
       "id_str" : "107558942",

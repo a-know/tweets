@@ -510,7 +510,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3075\u3082\uFF20\u706B\u6D88\u3057",
+      "name" : "\u3075\u3082",
       "screen_name" : "fumokmm",
       "indices" : [ 17, 25 ],
       "id_str" : "5821822",
@@ -594,7 +594,7 @@ Grailbird.data.tweets_2009_10 =
       "id_str" : "9110782",
       "id" : 9110782
     }, {
-      "name" : "\u3077\u3089\u3068\u308D",
+      "name" : "\u3077\u3089\u3068\u308D on \u5A5A\u6D3B\u4E2D",
       "screen_name" : "platoronical",
       "indices" : [ 25, 38 ],
       "id_str" : "14526481",
@@ -1494,7 +1494,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "7N1MJH",
+      "name" : "7N1MJH\uFF0F\u3057\u3076\u3084A28",
       "screen_name" : "7n1mjh",
       "indices" : [ 3, 10 ],
       "id_str" : "7906802",
@@ -1556,7 +1556,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3075\u3082\uFF20\u706B\u6D88\u3057",
+      "name" : "\u3075\u3082",
       "screen_name" : "fumokmm",
       "indices" : [ 43, 51 ],
       "id_str" : "5821822",
@@ -1618,7 +1618,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3075\u3082\uFF20\u706B\u6D88\u3057",
+      "name" : "\u3075\u3082",
       "screen_name" : "fumokmm",
       "indices" : [ 13, 21 ],
       "id_str" : "5821822",
@@ -1829,7 +1829,7 @@ Grailbird.data.tweets_2009_10 =
       "id_str" : "18828462",
       "id" : 18828462
     }, {
-      "name" : "\u3067\u3082\u5E78\u305B\u306A\u3089\uD83C\uDD97\u3067\u3059",
+      "name" : "\u3067\u3082\u5E78\u305B\u306A\u3089\uD83C\uDD97\u3067\u3059@Ruby\u5165\u9580\u66F8 \u304B\u3093\u305F\u3093Ruby \u767A\u58F2\u4E2D\uD83D\uDCAA",
       "screen_name" : "sugamasao",
       "indices" : [ 32, 42 ],
       "id_str" : "4579301",
@@ -2414,7 +2414,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3075\u3082\uFF20\u706B\u6D88\u3057",
+      "name" : "\u3075\u3082",
       "screen_name" : "fumokmm",
       "indices" : [ 26, 34 ],
       "id_str" : "5821822",
@@ -2847,7 +2847,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3048\u3075\u3057\u3093",
+      "name" : "\u3048\u3075\u3057\u3093 \/ BASE",
       "screen_name" : "fshin2000",
       "indices" : [ 3, 13 ],
       "id_str" : "3600081",
@@ -2875,7 +2875,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "7N1MJH",
+      "name" : "7N1MJH\uFF0F\u3057\u3076\u3084A28",
       "screen_name" : "7n1mjh",
       "indices" : [ 3, 10 ],
       "id_str" : "7906802",

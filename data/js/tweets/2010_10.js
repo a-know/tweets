@@ -2138,7 +2138,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "utadahikaru",
       "protected" : false,
       "id_str" : "174511656",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/912547057910423552\/M4yY__qP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/996955252183023616\/8EV9_Xpi_normal.jpg",
       "id" : 174511656,
       "verified" : true
     }
@@ -2409,7 +2409,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "utadahikaru",
       "protected" : false,
       "id_str" : "174511656",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/912547057910423552\/M4yY__qP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/996955252183023616\/8EV9_Xpi_normal.jpg",
       "id" : 174511656,
       "verified" : true
     }

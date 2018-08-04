@@ -236,7 +236,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "tumada",
+      "name" : "Taka Umada (@tumada)",
       "screen_name" : "tumada",
       "indices" : [ 3, 10 ],
       "id_str" : "7987942",
@@ -263,7 +263,7 @@ Grailbird.data.tweets_2010_11 =
     "id" : 8159018547675136,
     "created_at" : "2010-11-26 14:03:56 +0000",
     "user" : {
-      "name" : "tumada",
+      "name" : "Taka Umada (@tumada)",
       "screen_name" : "tumada",
       "protected" : false,
       "id_str" : "7987942",
@@ -2017,7 +2017,7 @@ Grailbird.data.tweets_2010_11 =
   "id_str" : "6352766515552257",
   "text" : "RT @daccot: \"\u30E9\u30B8\u30AA\u3092\u3064\u3051\u305F\u3089\u300C\u30A4\u30F3\u30BF\u30FC\u30CD\u30C3\u30C8\u5B9F\u540D\u304B\u533F\u540D\u304B\u300D\u3068\u3044\u3046\u8A71\u984C\u3067\u610F\u898B\u3092\u52DF\u3063\u3066\u3044\u305F\u3002 \u300C\u7D76\u5BFE\u5B9F\u540D\u5316\u3059\u3079\u3057\uFF01\u300D\u3068\u65AD\u8A00\u3057\u3066\u3044\u308B\u610F\u898B\u306E\u4EBA\u304C\u30E9\u30B8\u30AA\u30CD\u30FC\u30E0\u3067\u308F\u308D\u305F\u3002\" http:\/\/tumblr.com\/xfwr2na1t",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2087,7 +2087,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30DF\u30C4\u30AD\u30C1",
+      "name" : "\u30DF\u30C4\u30AD\u30C1\u304A\u3058\u3044\u3061\u3083\u3093100028\u6B73",
       "screen_name" : "mitukiti",
       "indices" : [ 52, 61 ],
       "id_str" : "102608701",
@@ -2999,7 +2999,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"https:\/\/sites.google.com\/site\/tweentwitterclient\/\" rel=\"nofollow\"\u003ETween\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3044\u308D\u3075.toStrong()",
+      "name" : "@irof",
       "screen_name" : "irof",
       "indices" : [ 9, 14 ],
       "id_str" : "14969725",
@@ -3183,7 +3183,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"https:\/\/sites.google.com\/site\/tweentwitterclient\/\" rel=\"nofollow\"\u003ETween\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3044\u308D\u3075.toStrong()",
+      "name" : "@irof",
       "screen_name" : "irof",
       "indices" : [ 8, 13 ],
       "id_str" : "14969725",
