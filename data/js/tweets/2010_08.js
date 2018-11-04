@@ -823,7 +823,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "__shinji__",
       "protected" : false,
       "id_str" : "50876485",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423314691243274240\/bXLDF0DF_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1052037925184000000\/OBN0ve57_normal.jpg",
       "id" : 50876485,
       "verified" : false
     }
@@ -1119,7 +1119,7 @@ Grailbird.data.tweets_2010_08 =
       "id_str" : "980268334288592897",
       "id" : 980268334288592897
     }, {
-      "name" : "Kousuke Matsumoto - \u677E\u672C\u5E78\u7950",
+      "name" : "\u677E\u672C \u5E78\u7950 -Kosuke Matsumoto-",
       "screen_name" : "Machamoto",
       "indices" : [ 34, 44 ],
       "id_str" : "17778817",
@@ -1136,7 +1136,7 @@ Grailbird.data.tweets_2010_08 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Kousuke Matsumoto - \u677E\u672C\u5E78\u7950",
+        "name" : "\u677E\u672C \u5E78\u7950 -Kosuke Matsumoto-",
         "screen_name" : "Machamoto",
         "indices" : [ 23, 33 ],
         "id_str" : "17778817",
@@ -1565,7 +1565,7 @@ Grailbird.data.tweets_2010_08 =
   "id_str" : "22008745818",
   "text" : "RT @fkoji: \u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u3067RPG\u3064\u304F\u3063\u3066\u307F\u305F\u300E\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30AF\u30A8\u30B9\u30C8\uFF11\u300F - satoru.net\u306E\u81EA\u7531\u5E33 http:\/\/htn.to\/vpo9VC",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1616,7 +1616,7 @@ Grailbird.data.tweets_2010_08 =
   "id_str" : "22011080400",
   "text" : "RT @fumokmm: [\u958B\u767A]Seasar2\u3063\u3066\u305D\u3093\u306A\u306B\u3044\u3044\u306E\u304B\u3057\u3089\u3002 \/ \u53D7\u8A17\u958B\u767A\u306B\u672A\u6765\u306F\u306A\u3044? - \u3072\u304C\u3084\u3059\u3092 blog http:\/\/htn.to\/eniMF4",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4867,7 +4867,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "ularatter",
       "protected" : false,
       "id_str" : "39405295",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/954215880564486145\/GmedsgGL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1047425462824185857\/OLin-82N_normal.jpg",
       "id" : 39405295,
       "verified" : false
     }

@@ -470,7 +470,7 @@ Grailbird.data.tweets_2010_06 =
     "created_at" : "2010-06-26 02:38:24 +0000",
     "user" : {
       "name" : "\u571F\u5C4B\u654F\u7537",
-      "screen_name" : "TSUCHIYA_ON",
+      "screen_name" : "TSUCHIYA_Pr",
       "protected" : false,
       "id_str" : "78826102",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2655454802\/e8b1095ef9ca4ce8b13ed77f4bfb9c41_normal.jpeg",
@@ -493,7 +493,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "goriragao",
+      "name" : "\u30B4\u30EA\u30E9\u9854",
       "screen_name" : "TOEIC570",
       "indices" : [ 46, 55 ],
       "id_str" : "108332433",
@@ -1488,7 +1488,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "__shinji__",
       "protected" : false,
       "id_str" : "50876485",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423314691243274240\/bXLDF0DF_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1052037925184000000\/OBN0ve57_normal.jpg",
       "id" : 50876485,
       "verified" : false
     }
@@ -2763,7 +2763,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u305D\u30FC\u3044\u3061\u30008\/16\u301C8\/18\u5317\u6D77\u9053",
+      "name" : "\u305D\u30FC\u3044\u3061\u300011\/17\u5CA1\u5D0E\u4F53\u80B2",
       "screen_name" : "knnso1",
       "indices" : [ 43, 50 ],
       "id_str" : "58649376",
@@ -4276,7 +4276,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "ALISrawhide",
       "protected" : false,
       "id_str" : "54169583",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/980462080145866759\/l2sYJj9Y_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1029333150508314624\/8WSH0e4T_normal.jpg",
       "id" : 54169583,
       "verified" : false
     }

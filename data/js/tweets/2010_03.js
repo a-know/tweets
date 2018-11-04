@@ -394,7 +394,7 @@ Grailbird.data.tweets_2010_03 =
       "id_str" : "5454872",
       "id" : 5454872
     }, {
-      "name" : "U\u30FB\u30CB\u30B3\u30EC\u30C3\u30BF",
+      "name" : "\u30E6\u30CB\u30B3\u30EC\u30C3\u30BF",
       "screen_name" : "u25letta",
       "indices" : [ 40, 49 ],
       "id_str" : "61535027",
@@ -863,7 +863,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/www.nibirutech.com\" rel=\"nofollow\"\u003ETwitBird\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDC3E Yuichi Uemura",
+      "name" : "Yuichi Uemura",
       "screen_name" : "u1",
       "indices" : [ 0, 3 ],
       "id_str" : "3779321",
@@ -974,7 +974,7 @@ Grailbird.data.tweets_2010_03 =
       "id_str" : "3781541",
       "id" : 3781541
     }, {
-      "name" : "\u540D\u8A00bot",
+      "name" : "\u30E1\u30A4\u30B2\u30F3\u30DC\u30C3\u30C8",
       "screen_name" : "meigenbot",
       "indices" : [ 43, 53 ],
       "id_str" : "10550172",
@@ -1348,39 +1348,6 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/www.nibirutech.com\" rel=\"nofollow\"\u003ETwitBird\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3071\u3093\u3071",
-      "screen_name" : "Pampa17",
-      "indices" : [ 0, 8 ],
-      "id_str" : "76253478",
-      "id" : 76253478
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "11075958479",
-  "geo" : { },
-  "id_str" : "11093681169",
-  "in_reply_to_user_id" : 76253478,
-  "text" : "@Pampa17 \u304A\u3063\u3001\u4ECA\u65E5\u3067\u3057\u305F\u304B\uFF01\u304A\u3044\u3067\u307E\u305B\u3001\u5009\u6577\u266A",
-  "id" : 11093681169,
-  "in_reply_to_status_id" : 11075958479,
-  "created_at" : "2010-03-26 00:00:00 +0000",
-  "in_reply_to_screen_name" : "Pampa17",
-  "in_reply_to_user_id_str" : "76253478",
-  "user" : {
-    "name" : "a-know",
-    "screen_name" : "a_know",
-    "protected" : false,
-    "id_str" : "54904048",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930620179083616256\/lITBdz0X_normal.jpg",
-    "id" : 54904048,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.nibirutech.com\" rel=\"nofollow\"\u003ETwitBird\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "AKYORON",
       "screen_name" : "akyoron",
       "indices" : [ 0, 8 ],
@@ -1401,6 +1368,39 @@ Grailbird.data.tweets_2010_03 =
   "created_at" : "2010-03-26 00:00:00 +0000",
   "in_reply_to_screen_name" : "akyoron",
   "in_reply_to_user_id_str" : "82862517",
+  "user" : {
+    "name" : "a-know",
+    "screen_name" : "a_know",
+    "protected" : false,
+    "id_str" : "54904048",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930620179083616256\/lITBdz0X_normal.jpg",
+    "id" : 54904048,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.nibirutech.com\" rel=\"nofollow\"\u003ETwitBird\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3071\u3093\u3071",
+      "screen_name" : "Pampa17",
+      "indices" : [ 0, 8 ],
+      "id_str" : "76253478",
+      "id" : 76253478
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "11075958479",
+  "geo" : { },
+  "id_str" : "11093681169",
+  "in_reply_to_user_id" : 76253478,
+  "text" : "@Pampa17 \u304A\u3063\u3001\u4ECA\u65E5\u3067\u3057\u305F\u304B\uFF01\u304A\u3044\u3067\u307E\u305B\u3001\u5009\u6577\u266A",
+  "id" : 11093681169,
+  "in_reply_to_status_id" : 11075958479,
+  "created_at" : "2010-03-26 00:00:00 +0000",
+  "in_reply_to_screen_name" : "Pampa17",
+  "in_reply_to_user_id_str" : "76253478",
   "user" : {
     "name" : "a-know",
     "screen_name" : "a_know",
@@ -2577,6 +2577,45 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/www.nibirutech.com\" rel=\"nofollow\"\u003ETwitBird\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "\u9AD8\u5730 \u7BC4\u5F18",
+      "screen_name" : "takachino",
+      "indices" : [ 3, 13 ],
+      "id_str" : "85729152",
+      "id" : 85729152
+    }, {
+      "name" : "\u30D1\u30E9\u30C0\u30A4\u30B9\u3055\u3093\uD83C\uDF51\uD83C\uDF51\uD83C\uDF51",
+      "screen_name" : "paradisemaker",
+      "indices" : [ 17, 31 ],
+      "id_str" : "5454252",
+      "id" : 5454252
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "10364769823",
+  "geo" : { },
+  "id_str" : "10365388031",
+  "in_reply_to_user_id" : 85729152,
+  "text" : "RT @takachino RT @paradisemaker: \u30B3\u30F3\u30C6\u30F3\u30C4\u3084\u30B5\u30FC\u30D3\u30B9\u4F5C\u308B\u4EBA\u304C\u65B0\u3057\u3044\u3082\u306E\u89E6\u3089\u306A\u304F\u3066\u3069\u3046\u3059\u3093\u306E\u3002",
+  "id" : 10365388031,
+  "in_reply_to_status_id" : 10364769823,
+  "created_at" : "2010-03-12 00:00:00 +0000",
+  "in_reply_to_screen_name" : "takachino",
+  "in_reply_to_user_id_str" : "85729152",
+  "user" : {
+    "name" : "a-know",
+    "screen_name" : "a_know",
+    "protected" : false,
+    "id_str" : "54904048",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930620179083616256\/lITBdz0X_normal.jpg",
+    "id" : 54904048,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.nibirutech.com\" rel=\"nofollow\"\u003ETwitBird\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "MIURA Masahiro",
       "screen_name" : "Dubhead",
       "indices" : [ 3, 11 ],
@@ -2827,45 +2866,6 @@ Grailbird.data.tweets_2010_03 =
   "created_at" : "2010-03-12 00:00:00 +0000",
   "in_reply_to_screen_name" : "masanork",
   "in_reply_to_user_id_str" : "3783901",
-  "user" : {
-    "name" : "a-know",
-    "screen_name" : "a_know",
-    "protected" : false,
-    "id_str" : "54904048",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930620179083616256\/lITBdz0X_normal.jpg",
-    "id" : 54904048,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.nibirutech.com\" rel=\"nofollow\"\u003ETwitBird\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u9AD8\u5730 \u7BC4\u5F18",
-      "screen_name" : "takachino",
-      "indices" : [ 3, 13 ],
-      "id_str" : "85729152",
-      "id" : 85729152
-    }, {
-      "name" : "\u30D1\u30E9\u30C0\u30A4\u30B9\u3055\u3093\uD83C\uDFD6\uD83C\uDF7A\uD83C\uDF51",
-      "screen_name" : "paradisemaker",
-      "indices" : [ 17, 31 ],
-      "id_str" : "5454252",
-      "id" : 5454252
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "10364769823",
-  "geo" : { },
-  "id_str" : "10365388031",
-  "in_reply_to_user_id" : 85729152,
-  "text" : "RT @takachino RT @paradisemaker: \u30B3\u30F3\u30C6\u30F3\u30C4\u3084\u30B5\u30FC\u30D3\u30B9\u4F5C\u308B\u4EBA\u304C\u65B0\u3057\u3044\u3082\u306E\u89E6\u3089\u306A\u304F\u3066\u3069\u3046\u3059\u3093\u306E\u3002",
-  "id" : 10365388031,
-  "in_reply_to_status_id" : 10364769823,
-  "created_at" : "2010-03-12 00:00:00 +0000",
-  "in_reply_to_screen_name" : "takachino",
-  "in_reply_to_user_id_str" : "85729152",
   "user" : {
     "name" : "a-know",
     "screen_name" : "a_know",
@@ -3983,7 +3983,7 @@ Grailbird.data.tweets_2010_03 =
       "id_str" : "5821822",
       "id" : 5821822
     }, {
-      "name" : "\u305F\u3051\uFF08\u6C57\uFF09",
+      "name" : "\u305F\u3051\uFF08\u5C90\u8DEF\uFF09",
       "screen_name" : "take_it02",
       "indices" : [ 15, 25 ],
       "id_str" : "14737535",
@@ -4229,6 +4229,28 @@ Grailbird.data.tweets_2010_03 =
   "created_at" : "2010-03-07 00:00:00 +0000",
   "in_reply_to_screen_name" : "Pampa17",
   "in_reply_to_user_id_str" : "76253478",
+  "user" : {
+    "name" : "a-know",
+    "screen_name" : "a_know",
+    "protected" : false,
+    "id_str" : "54904048",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930620179083616256\/lITBdz0X_normal.jpg",
+    "id" : 54904048,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.nibirutech.com\" rel=\"nofollow\"\u003ETwitBird\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "10086926461",
+  "text" : "\u3064\u3044\u3063\u305F\u30FC\u59CB\u3081\u3066\u304B\u3089\u3001\u60C5\u5831\u9078\u5225\u80FD\u529B\u306E\u30EC\u30D9\u30EB\u304C\u4E0A\u304C\u3063\u305F\u6C17\u304C\u3059\u308B\u3002\u2026\u3044\u3084\u3001\u30EC\u30D9\u30EB\u304C\u4E0A\u304C\u3063\u305F\u3068\u3044\u3046\u3088\u308A\u306F\u3001\u3064\u3044\u3063\u305F\u30FC\u306B\u3082\u5408\u308F\u305B\u3066\u6700\u9069\u5316\u3067\u304D\u308B\u3088\u3046\u306B\u306A\u3063\u305F\u3001\u3063\u3066\u611F\u3058\u304B\u306A\uFF1F\u59CB\u3081\u305F\u3070\u304B\u308A\u306E\u3053\u308D\u306F\u76EE\u306E\u524D\u306ETL\u306E\u6FC1\u6D41\u306B\u98F2\u307F\u8FBC\u307E\u308C\u3066\u305F\u304B\u3093\u3058\u3002",
+  "id" : 10086926461,
+  "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
     "name" : "a-know",
     "screen_name" : "a_know",
@@ -4653,28 +4675,6 @@ Grailbird.data.tweets_2010_03 =
   "created_at" : "2010-03-06 00:00:00 +0000",
   "in_reply_to_screen_name" : "Hamachiya2",
   "in_reply_to_user_id_str" : "3314811",
-  "user" : {
-    "name" : "a-know",
-    "screen_name" : "a_know",
-    "protected" : false,
-    "id_str" : "54904048",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930620179083616256\/lITBdz0X_normal.jpg",
-    "id" : 54904048,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.nibirutech.com\" rel=\"nofollow\"\u003ETwitBird\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "10086926461",
-  "text" : "\u3064\u3044\u3063\u305F\u30FC\u59CB\u3081\u3066\u304B\u3089\u3001\u60C5\u5831\u9078\u5225\u80FD\u529B\u306E\u30EC\u30D9\u30EB\u304C\u4E0A\u304C\u3063\u305F\u6C17\u304C\u3059\u308B\u3002\u2026\u3044\u3084\u3001\u30EC\u30D9\u30EB\u304C\u4E0A\u304C\u3063\u305F\u3068\u3044\u3046\u3088\u308A\u306F\u3001\u3064\u3044\u3063\u305F\u30FC\u306B\u3082\u5408\u308F\u305B\u3066\u6700\u9069\u5316\u3067\u304D\u308B\u3088\u3046\u306B\u306A\u3063\u305F\u3001\u3063\u3066\u611F\u3058\u304B\u306A\uFF1F\u59CB\u3081\u305F\u3070\u304B\u308A\u306E\u3053\u308D\u306F\u76EE\u306E\u524D\u306ETL\u306E\u6FC1\u6D41\u306B\u98F2\u307F\u8FBC\u307E\u308C\u3066\u305F\u304B\u3093\u3058\u3002",
-  "id" : 10086926461,
-  "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
     "name" : "a-know",
     "screen_name" : "a_know",
@@ -5702,6 +5702,39 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/www.nibirutech.com\" rel=\"nofollow\"\u003ETwitBird\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "\u306B\u305B\u308C\u3076",
+      "screen_name" : "2celeb",
+      "indices" : [ 3, 10 ],
+      "id_str" : "32315802",
+      "id" : 32315802
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "9914103396",
+  "geo" : { },
+  "id_str" : "9916686208",
+  "in_reply_to_user_id" : 32315802,
+  "text" : "RT @2celeb java,ruby,perl,php,c#\u7B49\u3067\u304D\u308B\u304B\u305F\u6B53\u8FCE\u3063\u3066\u66F8\u304D\u65B9\u306E\u4F01\u696D\u306F\u3060\u3044\u305F\u3044\u4EBA\u8EAB\u58F2\u8CB7\u306A\u6C17\u304C\u3059\u308B\u306A\u3002\u81EA\u793E\u3067\u30B5\u30FC\u30D3\u30B9\u3084\u53D7\u8A17\u958B\u767A\u3059\u308B\u306A\u3089\u5F97\u610F\u5206\u91CE\u3092\u7D5E\u308B\u306E\u304C\u666E\u901A\u306A\u304D\u304C\u3059\u308B\u3002",
+  "id" : 9916686208,
+  "in_reply_to_status_id" : 9914103396,
+  "created_at" : "2010-03-03 00:00:00 +0000",
+  "in_reply_to_screen_name" : "2celeb",
+  "in_reply_to_user_id_str" : "32315802",
+  "user" : {
+    "name" : "a-know",
+    "screen_name" : "a_know",
+    "protected" : false,
+    "id_str" : "54904048",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930620179083616256\/lITBdz0X_normal.jpg",
+    "id" : 54904048,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.nibirutech.com\" rel=\"nofollow\"\u003ETwitBird\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "\u304D\u3057\u3060\u0D60",
       "screen_name" : "kis",
       "indices" : [ 8, 12 ],
@@ -5744,39 +5777,6 @@ Grailbird.data.tweets_2010_03 =
   "text" : "\u6628\u65E5\u4E45\u3005\u306B\u904B\u52D5\u3057\u3066\u3001\u78BA\u5B9F\u306B\u7CBE\u795E\u885B\u751F\u304C\u826F\u304F\u306A\u3063\u305F\uFF01 \u3084\u3063\u3071\u5927\u4E8B\u3067\u3059\u306D\uFF5E\u3001\u904B\u52D5\u306F\u3002",
   "id" : 9911938480,
   "created_at" : "2010-03-03 00:00:00 +0000",
-  "user" : {
-    "name" : "a-know",
-    "screen_name" : "a_know",
-    "protected" : false,
-    "id_str" : "54904048",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930620179083616256\/lITBdz0X_normal.jpg",
-    "id" : 54904048,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.nibirutech.com\" rel=\"nofollow\"\u003ETwitBird\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u306B\u305B\u308C\u3076",
-      "screen_name" : "2celeb",
-      "indices" : [ 3, 10 ],
-      "id_str" : "32315802",
-      "id" : 32315802
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "9914103396",
-  "geo" : { },
-  "id_str" : "9916686208",
-  "in_reply_to_user_id" : 32315802,
-  "text" : "RT @2celeb java,ruby,perl,php,c#\u7B49\u3067\u304D\u308B\u304B\u305F\u6B53\u8FCE\u3063\u3066\u66F8\u304D\u65B9\u306E\u4F01\u696D\u306F\u3060\u3044\u305F\u3044\u4EBA\u8EAB\u58F2\u8CB7\u306A\u6C17\u304C\u3059\u308B\u306A\u3002\u81EA\u793E\u3067\u30B5\u30FC\u30D3\u30B9\u3084\u53D7\u8A17\u958B\u767A\u3059\u308B\u306A\u3089\u5F97\u610F\u5206\u91CE\u3092\u7D5E\u308B\u306E\u304C\u666E\u901A\u306A\u304D\u304C\u3059\u308B\u3002",
-  "id" : 9916686208,
-  "in_reply_to_status_id" : 9914103396,
-  "created_at" : "2010-03-03 00:00:00 +0000",
-  "in_reply_to_screen_name" : "2celeb",
-  "in_reply_to_user_id_str" : "32315802",
   "user" : {
     "name" : "a-know",
     "screen_name" : "a_know",

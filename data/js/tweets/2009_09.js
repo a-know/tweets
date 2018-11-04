@@ -941,14 +941,14 @@ Grailbird.data.tweets_2009_09 =
     "media" : [ ],
     "hashtags" : [ {
       "text" : "appengine",
-      "indices" : [ 15, 25 ]
+      "indices" : [ 25, 35 ]
     } ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "3930021908",
-  "text" : "\u6A19\u6E96\u51FA\u529B\u306A\u3089\u51FA\u308B\u306A\u3002\u3046\u3046\u3093\u2026 #appengine",
-  "id" : 3930021908,
+  "id_str" : "3929966059",
+  "text" : "\u3042\u308C\u2026\u306A\u3093\u304B\u6025\u306B\u30ED\u30B0\u304C\u30B3\u30F3\u30BD\u30FC\u30EB\u306B\u51FA\u306A\u304F\u306A\u3063\u305F\u2026 #appengine",
+  "id" : 3929966059,
   "created_at" : "2009-09-12 00:00:00 +0000",
   "user" : {
     "name" : "a-know",
@@ -966,14 +966,14 @@ Grailbird.data.tweets_2009_09 =
     "media" : [ ],
     "hashtags" : [ {
       "text" : "appengine",
-      "indices" : [ 25, 35 ]
+      "indices" : [ 15, 25 ]
     } ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "3929966059",
-  "text" : "\u3042\u308C\u2026\u306A\u3093\u304B\u6025\u306B\u30ED\u30B0\u304C\u30B3\u30F3\u30BD\u30FC\u30EB\u306B\u51FA\u306A\u304F\u306A\u3063\u305F\u2026 #appengine",
-  "id" : 3929966059,
+  "id_str" : "3930021908",
+  "text" : "\u6A19\u6E96\u51FA\u529B\u306A\u3089\u51FA\u308B\u306A\u3002\u3046\u3046\u3093\u2026 #appengine",
+  "id" : 3930021908,
   "created_at" : "2009-09-12 00:00:00 +0000",
   "user" : {
     "name" : "a-know",
